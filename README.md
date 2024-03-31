@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="#">
+  <a href="quang0706r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%C3%A0nh-quang-a15713298/" target="_blank">
