@@ -11,7 +11,7 @@
  
 ✍ I'm a student at [Thuy Loi university](https://tlus.edu.vn/).
 
-💬 Ask me about **Node.js, Angular,... or anything [here](https://www.facebook.com/nguyenthanh.quang.dz)**
+💬 Ask me about **Node.js, Devsecops, Golang... or anything [here](https://www.facebook.com/nguyenthanh.quang.dz)**
 
 
  </div>
