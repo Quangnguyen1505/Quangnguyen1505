@@ -12,7 +12,9 @@
 ✍ I'm a student at [Thuy Loi university](https://tlus.edu.vn/).
 
 🔭 I am currently working as a **Backend Developer**
+
 🌱 I am currently learning **Microservices**
+
 💬 Ask me about **Node.js, Devsecops, Golang... or anything [here](https://www.facebook.com/nguyenthanh.quang.dz)**
 
 
