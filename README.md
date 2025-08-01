@@ -8,8 +8,7 @@
 
 <div align="center">
 
- 
-✍ I'm a student at [Thuy Loi university](https://tlus.edu.vn/).
+
 
 🔭 I am currently working as a **Backend Developer**
 
